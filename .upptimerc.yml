@@ -2,8 +2,22 @@ owner: Raksha-ch
 repo: upptime
 
 sites:
-  - name: Raksha homepage
-    url: https://www.raksha.ch
+  - name: Homepage
+    url: https://raksha.ch
+  - name: Mailu
+    url: https://mail.raksha.ch
+  - name: IMAP
+    check: "tcp-ping"
+    url: mail.raksha.ch
+    port: 143
+  - name: Submission SMTP
+    check: "tcp-ping"
+    url: mail.raksha.ch
+    port: 587
+  - name: SMTP
+    check: "tcp-ping"
+    url: mail.raksha.ch
+    port: 25
 
 status-website:
   cname: status.raksha.ch
