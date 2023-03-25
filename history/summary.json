@@ -22,18 +22,20 @@
     "url": "https://mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.raksha.ch.ico",
     "slug": "raksha-mail-mailu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1149,
     "timeDay": 1149,
     "timeWeek": 1149,
     "timeMonth": 1149,
     "timeYear": 1149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-25": 0
+    }
   },
   {
     "name": "Raksha Mail - IMAP reception",
