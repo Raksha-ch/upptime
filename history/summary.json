@@ -22,19 +22,19 @@
     "url": "https://mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.raksha.ch.ico",
     "slug": "raksha-mail-mailu",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1149,
-    "timeDay": 1149,
-    "timeWeek": 1149,
-    "timeMonth": 1149,
-    "timeYear": 1149,
+    "status": "up",
+    "uptime": "93.46%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "93.46%",
+    "time": 1067,
+    "timeDay": 1067,
+    "timeWeek": 1067,
+    "timeMonth": 1067,
+    "timeYear": 1067,
     "dailyMinutesDown": {
-      "2023-03-25": 0
+      "2023-03-25": 17
     }
   },
   {
