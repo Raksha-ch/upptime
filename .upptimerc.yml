@@ -2,19 +2,19 @@ owner: Raksha-ch
 repo: upptime
 
 sites:
-  - name: Homepage
+  - name: Raksha.ch
     url: https://raksha.ch
-  - name: Mailu
+  - name: Raksha Mail - Mailu
     url: https://mail.raksha.ch
-  - name: IMAP
+  - name: Raksha Mail - IMAP reception
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 143
-  - name: Submission SMTP
+  - name: Raksha Mail - SMTP submission
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 587
-  - name: SMTP
+  - name: Raksha Mail - SMTP reception
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 25
@@ -22,13 +22,13 @@ sites:
 status-website:
   cname: status.raksha.ch
   logoUrl: https://raksha.ch/wp-content/uploads/2023/02/Raksha.png
-  name: Raksha status
-  introTitle: "Status of all the Raksha services"
-  introMessage: ""
+  name: Raksha - État des services
+  introTitle: "État des services Raksha.ch"
+  introMessage: "Pour toutes question; admin+status@raksha.ch"
   navbar:
     - title: Homepage
       href: https://raksha.ch/
-    - title: Raksha mail
+    - title: Raksha Mail
       href: https://mail.raksha.ch/
     - title: Status
       href: /
