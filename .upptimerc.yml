@@ -4,7 +4,7 @@ repo: upptime
 sites:
   - name: Raksha.ch
     url: https://raksha.ch
-  - name: Raksha Mail - Mailu
+  - name: Mailu interface
     url: https://mail.raksha.ch
   - name: Raksha Mail - IMAP reception
     check: "tcp-ping"
