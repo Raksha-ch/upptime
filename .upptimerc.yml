@@ -6,15 +6,15 @@ sites:
     url: https://raksha.ch
   - name: Mailu interface
     url: https://mail.raksha.ch
-  - name: Raksha Mail - IMAP reception
+  - name: Mail - IMAP reception
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 143
-  - name: Raksha Mail - SMTP submission
+  - name: Mail - SMTP submission
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 587
-  - name: Raksha Mail - SMTP reception
+  - name: Mail - Main MX
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 25
