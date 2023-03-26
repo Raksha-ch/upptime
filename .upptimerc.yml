@@ -40,7 +40,7 @@ i18n:
   activeIncidents: Incidents actifs
   allSystemsOperational: Tous les services et systèmes sont opérationnels
   incidentReport: "Rapport de l'incident #$NUMBER →"
-  activeIncidentSummary: Ouvert le $DATE avec $POSTS posts
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS messages
   incidentTitle: "Détails de l'incident $NUMBER"
   incidentDetails: "Détails de l'incident"
   incidentFixed: Corrigé
@@ -51,7 +51,7 @@ i18n:
   incidentCommentSummary: Posté le $DATE par $AUTHOR
   incidentBack: ← Retour aux incidents
   pastIncidents: Incidents passés
-  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS posts
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS messages
   liveStatus: État en direct
   overallUptime: "Proportion en ligne: $UPTIME"
   overallUptimeTitle: En ligne
@@ -65,7 +65,7 @@ i18n:
   ms: ms
   loading: Chargement
   navGitHub: GitHub
-  footer: Cette page est [open source]($REPO), basé sur [Upptime](https://upptime.js.org)
+  footer: Le [code]($REPO) de cette page, basé sur [Upptime](https://upptime.js.org), est public.
   #rateLimitExceededTitle: Rate limit exceeded
   #rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   #rateLimitExceededWhatDoesErrorMean: What does this error mean?
@@ -96,4 +96,4 @@ i18n:
   duration7D: 7j
   duration30D: 30j
   duration1Y: 1a
-  durationAll: tout
+  durationAll: Tout
