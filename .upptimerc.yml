@@ -29,18 +29,16 @@ status-website:
   cname: status.raksha.ch
   logoUrl: https://raksha.ch/wp-content/uploads/2023/02/Raksha.png
   favicon: https://raksha.ch/wp-content/uploads/2023/02/Raksha.png
-  name: Raksha.ch - État des services
+  name: Raksha.ch
   introTitle: "Raksha.ch - État des services"
   introMessage: "Pour toutes question; admin+status@raksha.ch"
   navbar:
-    - title: Homepage
+    - title: Raksha.ch
       href: https://raksha.ch/
     - title: Raksha Mail
       href: https://mail.raksha.ch/
-    - title: Status
+    - title: État des services
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Let us talk french. It's in Romandie afterall
 i18n:
