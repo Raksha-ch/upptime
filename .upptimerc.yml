@@ -6,6 +6,8 @@ sites:
     url: https://raksha.ch
   - name: Mailu interface
     url: https://mail.raksha.ch
+  - name: Listes-Vertes.ch
+    url: https://listes-vertes.ch
   - name: Mail - IMAP reception
     check: "tcp-ping"
     url: mail.raksha.ch
@@ -26,8 +28,9 @@ sites:
 status-website:
   cname: status.raksha.ch
   logoUrl: https://raksha.ch/wp-content/uploads/2023/02/Raksha.png
-  name: Raksha - État des services
-  introTitle: "État des services Raksha.ch"
+  favicon: https://raksha.ch/wp-content/uploads/2023/02/Raksha.png
+  name: Raksha.ch - État des services
+  introTitle: "Raksha.ch - État des services"
   introMessage: "Pour toutes question; admin+status@raksha.ch"
   navbar:
     - title: Homepage
