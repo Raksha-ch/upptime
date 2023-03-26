@@ -18,6 +18,10 @@ sites:
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 25
+  - name: Mail - Secondary MX
+    check: "tcp-ping"
+    url: mail.flosstools.org
+    port: 25
 
 status-website:
   cname: status.raksha.ch
