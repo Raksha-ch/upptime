@@ -12,6 +12,10 @@ sites:
     check: "tcp-ping"
     url: mail.raksha.ch
     port: 143
+  - name: Mail - IMAPS reception
+    check: "tcp-ping"
+    url: mail.raksha.ch
+    port: 993
   - name: Mail - SMTP submission
     check: "tcp-ping"
     url: mail.raksha.ch
