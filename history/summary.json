@@ -4,11 +4,11 @@
     "url": "https://raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/raksha.ch.ico",
     "slug": "raksha-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.66%",
     "time": 850,
     "timeDay": 678,
@@ -16,6 +16,7 @@
     "timeMonth": 888,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-06-13": 37,
       "2023-03-30": 271,
       "2023-03-29": 199
@@ -46,9 +47,9 @@
     "url": "https://listes-vertes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/listes-vertes.ch.ico",
     "slug": "listes-vertes-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
@@ -58,6 +59,7 @@
     "timeMonth": 1195,
     "timeYear": 1342,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-03-30": 256,
       "2023-03-29": 199
     }
