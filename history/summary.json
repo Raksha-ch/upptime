@@ -26,9 +26,9 @@
     "slug": "mailu-interface",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 987,
     "timeDay": 672,
@@ -36,7 +36,6 @@
     "timeMonth": 987,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2024-10-07": 11,
       "2024-04-05": 34
     }
   },
