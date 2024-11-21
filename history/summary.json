@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
-    "timeDay": 863,
-    "timeWeek": 921,
+    "timeDay": 843,
+    "timeWeek": 908,
     "timeMonth": 832,
     "timeYear": 867,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 975,
-    "timeDay": 966,
-    "timeWeek": 873,
-    "timeMonth": 851,
-    "timeYear": 949,
+    "timeDay": 804,
+    "timeWeek": 847,
+    "timeMonth": 844,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2024-11-18": 23,
       "2024-04-05": 34
@@ -51,36 +51,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1378,
-    "timeDay": 1387,
-    "timeWeek": 1276,
-    "timeMonth": 1163,
-    "timeYear": 1375,
+    "time": 1377,
+    "timeDay": 1153,
+    "timeWeek": 1231,
+    "timeMonth": 1156,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2024-07-11": 26
-    }
-  },
-  {
-    "name": "Mail - IMAP reception",
-    "url": "mail.raksha.ch",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mail-imap-reception",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "65.39%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "99.34%",
-    "time": 151,
-    "timeDay": 0,
-    "timeWeek": 114,
-    "timeMonth": 110,
-    "timeYear": 117,
-    "dailyMinutesDown": {
-      "2024-11-21": 43,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 566
     }
   },
   {
@@ -95,34 +72,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 158,
-    "timeWeek": 124,
+    "timeDay": 134,
+    "timeWeek": 122,
     "timeMonth": 112,
     "timeYear": 117,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Mail - SMTP submission",
-    "url": "mail.raksha.ch",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mail-smtp-submission",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "65.39%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "99.34%",
-    "time": 137,
-    "timeDay": 0,
-    "timeWeek": 114,
-    "timeMonth": 110,
-    "timeYear": 117,
-    "dailyMinutesDown": {
-      "2024-11-21": 43,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 566
-    }
   },
   {
     "name": "Mail - Main MX",
@@ -136,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 158,
-    "timeWeek": 124,
+    "timeDay": 134,
+    "timeWeek": 122,
     "timeMonth": 112,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -153,9 +107,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 164,
-    "timeWeek": 130,
+    "time": 245,
+    "timeDay": 140,
+    "timeWeek": 128,
     "timeMonth": 117,
     "timeYear": 145,
     "dailyMinutesDown": {}
