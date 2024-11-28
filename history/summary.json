@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 875,
-    "timeDay": 1144,
-    "timeWeek": 837,
-    "timeMonth": 811,
+    "timeDay": 951,
+    "timeWeek": 848,
+    "timeMonth": 818,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2024-07-11": 26
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.raksha.ch.ico",
     "slug": "mailu-interface",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 970,
-    "timeDay": 1043,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 946,
+    "time": 969,
+    "timeDay": 851,
+    "timeWeek": 807,
+    "timeMonth": 823,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2024-11-18": 23,
       "2024-04-05": 34
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1375,
-    "timeDay": 1658,
-    "timeWeek": 1240,
-    "timeMonth": 1169,
-    "timeYear": 1373,
+    "timeDay": 1144,
+    "timeWeek": 1209,
+    "timeMonth": 1172,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2024-07-11": 26
     }
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 158,
-    "timeWeek": 120,
+    "timeDay": 109,
+    "timeWeek": 114,
     "timeMonth": 111,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 158,
-    "timeWeek": 120,
+    "timeDay": 109,
+    "timeWeek": 114,
     "timeMonth": 111,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 164,
-    "timeWeek": 125,
+    "time": 238,
+    "timeDay": 116,
+    "timeWeek": 119,
     "timeMonth": 116,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   }
 ]
