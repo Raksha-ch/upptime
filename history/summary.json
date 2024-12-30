@@ -25,18 +25,19 @@
     "url": "https://mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.raksha.ch.ico",
     "slug": "mailu-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 962,
+    "time": 963,
     "timeDay": 681,
     "timeWeek": 897,
     "timeMonth": 950,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2024-12-30": 0,
       "2024-11-18": 23,
       "2024-04-05": 34
     }
