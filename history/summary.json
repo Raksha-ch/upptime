@@ -4,10 +4,10 @@
     "url": "https://raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/raksha.ch.ico",
     "slug": "raksha-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 885,
@@ -16,6 +16,7 @@
     "timeMonth": 972,
     "timeYear": 858,
     "dailyMinutesDown": {
+      "2025-02-28": 2,
       "2025-02-22": 72,
       "2025-02-03": 24,
       "2024-12-03": 55,
@@ -49,11 +50,11 @@
     "url": "https://listes-vertes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/listes-vertes.ch.ico",
     "slug": "listes-vertes-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 1386,
     "timeDay": 1072,
@@ -61,6 +62,7 @@
     "timeMonth": 1485,
     "timeYear": 1372,
     "dailyMinutesDown": {
+      "2025-02-28": 1,
       "2025-02-22": 72,
       "2024-12-03": 55,
       "2024-07-11": 26
@@ -107,9 +109,9 @@
     "url": "mail.flosstools.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-secondary-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
@@ -119,6 +121,7 @@
     "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2025-02-22": 71
     }
   }
