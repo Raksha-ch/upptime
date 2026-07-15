@@ -4,11 +4,11 @@
     "url": "https://raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/raksha.ch.ico",
     "slug": "raksha-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
     "time": 873,
     "timeDay": 708,
@@ -25,7 +25,8 @@
       "2026-02-28": 20,
       "2026-04-03": 118,
       "2026-04-02": 73,
-      "2026-05-13": 240
+      "2026-05-13": 240,
+      "2026-07-15": 5
     }
   },
   {
@@ -33,11 +34,11 @@
     "url": "https://mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.raksha.ch.ico",
     "slug": "mailu-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 948,
     "timeDay": 1115,
@@ -49,7 +50,8 @@
       "2026-03-24": 58,
       "2026-04-03": 118,
       "2026-04-02": 73,
-      "2026-05-13": 240
+      "2026-05-13": 240,
+      "2026-07-15": 5
     }
   },
   {
@@ -57,9 +59,9 @@
     "url": "https://listes-vertes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/listes-vertes.ch.ico",
     "slug": "listes-vertes-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -73,7 +75,8 @@
       "2026-02-28": 20,
       "2026-04-03": 118,
       "2026-04-02": 73,
-      "2026-05-13": 240
+      "2026-05-13": 240,
+      "2026-07-15": 0
     }
   },
   {
