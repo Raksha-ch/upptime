@@ -4,16 +4,16 @@
     "url": "https://raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/raksha.ch.ico",
     "slug": "raksha-ch",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.83%",
-    "time": 896,
-    "timeDay": 565,
-    "timeWeek": 841,
-    "timeMonth": 1187,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "83.36%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.79%",
+    "time": 897,
+    "timeDay": 717,
+    "timeWeek": 861,
+    "timeMonth": 1182,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2026-02-28": 20,
@@ -22,7 +22,7 @@
       "2026-05-13": 240,
       "2026-07-15": 283,
       "2026-09-16": 134,
-      "2026-10-02": 0
+      "2026-10-02": 240
     }
   },
   {
