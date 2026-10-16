@@ -4,15 +4,15 @@
     "url": "https://raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/raksha.ch.ico",
     "slug": "raksha-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "77.08%",
-    "uptimeWeek": "96.73%",
+    "uptimeDay": "94.14%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.73%",
-    "time": 900,
+    "time": 901,
     "timeDay": 1015,
-    "timeWeek": 968,
+    "timeWeek": 985,
     "timeMonth": 1174,
     "timeYear": 912,
     "dailyMinutesDown": {
@@ -23,7 +23,8 @@
       "2026-07-15": 283,
       "2026-09-16": 134,
       "2026-10-02": 240,
-      "2026-10-15": 330
+      "2026-10-15": 330,
+      "2026-10-16": 1
     }
   },
   {
@@ -31,15 +32,15 @@
     "url": "https://mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.raksha.ch.ico",
     "slug": "mailu-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1042,
     "timeDay": 1362,
-    "timeWeek": 1450,
+    "timeWeek": 1421,
     "timeMonth": 1342,
     "timeYear": 1105,
     "dailyMinutesDown": {
@@ -47,7 +48,8 @@
       "2026-04-03": 118,
       "2026-04-02": 73,
       "2026-05-13": 240,
-      "2026-07-15": 283
+      "2026-07-15": 283,
+      "2026-10-16": 1
     }
   },
   {
@@ -63,7 +65,7 @@
     "uptimeYear": "99.86%",
     "time": 1006,
     "timeDay": 1023,
-    "timeWeek": 1092,
+    "timeWeek": 1091,
     "timeMonth": 1097,
     "timeYear": 996,
     "dailyMinutesDown": {
@@ -79,35 +81,39 @@
     "url": "mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imaps-reception",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 126,
-    "timeWeek": 124,
+    "timeWeek": 122,
     "timeMonth": 116,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-16": 1
+    }
   },
   {
     "name": "Mail - Main MX",
     "url": "mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-main-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 123,
-    "timeWeek": 123,
+    "timeWeek": 120,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-16": 0
+    }
   }
 ]
