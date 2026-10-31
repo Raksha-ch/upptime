@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/raksha.ch.ico",
     "slug": "raksha-ch",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.74%",
+    "uptimeDay": "60.92%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "99.48%",
     "time": 899,
     "timeDay": 429,
     "timeWeek": 674,
@@ -28,7 +28,7 @@
       "2026-10-21": 298,
       "2026-10-23": 19,
       "2026-10-22": 128,
-      "2026-10-31": 181,
+      "2026-10-31": 547,
       "2026-10-30": 16
     }
   },
@@ -62,13 +62,13 @@
     "url": "https://listes-vertes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/listes-vertes.ch.ico",
     "slug": "listes-vertes-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.80%",
-    "time": 1019,
+    "time": 1020,
     "timeDay": 1049,
     "timeWeek": 1166,
     "timeMonth": 1131,
@@ -79,7 +79,8 @@
       "2026-04-02": 73,
       "2026-05-13": 240,
       "2026-07-15": 278,
-      "2026-10-21": 298
+      "2026-10-21": 298,
+      "2026-10-31": 0
     }
   },
   {
