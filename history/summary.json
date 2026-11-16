@@ -8,12 +8,12 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.13%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.38%",
     "time": 901,
     "timeDay": 690,
     "timeWeek": 761,
-    "timeMonth": 826,
+    "timeMonth": 816,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2026-02-28": 20,
@@ -47,8 +47,8 @@
     "time": 1071,
     "timeDay": 1289,
     "timeWeek": 1258,
-    "timeMonth": 1341,
-    "timeYear": 1148,
+    "timeMonth": 1340,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2026-03-24": 58,
       "2026-04-03": 118,
@@ -72,7 +72,7 @@
     "time": 1029,
     "timeDay": 796,
     "timeWeek": 1061,
-    "timeMonth": 1139,
+    "timeMonth": 1142,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2026-02-28": 20,
@@ -110,9 +110,9 @@
     "url": "mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-main-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
@@ -124,7 +124,8 @@
     "dailyMinutesDown": {
       "2026-10-16": 263,
       "2026-11-05": 172,
-      "2026-11-04": 71
+      "2026-11-04": 71,
+      "2026-11-16": 0
     }
   }
 ]
