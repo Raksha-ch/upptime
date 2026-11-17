@@ -110,23 +110,23 @@
     "url": "mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-main-mx",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.89%",
-    "time": 116,
-    "timeDay": 0,
-    "timeWeek": 112,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "75.39%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.83%",
+    "time": 117,
+    "timeDay": 157,
+    "timeWeek": 119,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2026-10-16": 263,
       "2026-11-05": 172,
       "2026-11-04": 71,
       "2026-11-16": 37,
-      "2026-11-17": 33
+      "2026-11-17": 354
     }
   }
 ]
