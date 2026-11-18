@@ -13,7 +13,7 @@
     "time": 900,
     "timeDay": 588,
     "timeWeek": 780,
-    "timeMonth": 825,
+    "timeMonth": 818,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2026-02-28": 20,
@@ -47,8 +47,8 @@
     "time": 1073,
     "timeDay": 997,
     "timeWeek": 1252,
-    "timeMonth": 1330,
-    "timeYear": 1150,
+    "timeMonth": 1326,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2026-03-24": 58,
       "2026-04-03": 118,
@@ -72,7 +72,7 @@
     "time": 1029,
     "timeDay": 653,
     "timeWeek": 988,
-    "timeMonth": 1126,
+    "timeMonth": 1120,
     "timeYear": 1026,
     "dailyMinutesDown": {
       "2026-02-28": 20,
@@ -99,7 +99,7 @@
     "time": 117,
     "timeDay": 91,
     "timeWeek": 108,
-    "timeMonth": 115,
+    "timeMonth": 114,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-10-16": 264
@@ -110,23 +110,24 @@
     "url": "mail.raksha.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-main-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "75.39%",
+    "uptimeDay": "75.37%",
     "uptimeWeek": "96.12%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.83%",
     "time": 117,
     "timeDay": 157,
     "timeWeek": 119,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-10-16": 263,
       "2026-11-05": 172,
       "2026-11-04": 71,
       "2026-11-16": 37,
-      "2026-11-17": 354
+      "2026-11-17": 354,
+      "2026-11-18": 0
     }
   }
 ]
