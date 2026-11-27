@@ -112,10 +112,10 @@
     "slug": "mail-main-mx",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "36.37%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "32.47%",
+    "uptimeWeek": "85.00%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "99.52%",
     "time": 116,
     "timeDay": 94,
     "timeWeek": 116,
@@ -129,7 +129,7 @@
       "2026-11-17": 354,
       "2026-11-18": 124,
       "2026-11-25": 539,
-      "2026-11-27": 236,
+      "2026-11-27": 292,
       "2026-11-26": 680
     }
   }
